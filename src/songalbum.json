@@ -1,0 +1,285 @@
+[
+    {
+        "name": "Adam's Song",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/adamsong.mp3"
+    },
+    {
+        "name": "All the Small things",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/allthesmallthings.mp3"
+    },
+    {
+        "name": "First Date",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/firstdate.mp3"
+    },
+    {
+        "name": "Anthem Part Two",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/AnthemPartTwo.mp3"
+    },
+    {
+        "name": "The Rock Show",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/TheRockShow.mp3"
+    },
+    {
+        "name": "Dammit",
+        "album": "dude ranch",
+        "albumCover": "duderanch.jpg",
+        "url": "songs/dammit.mp3"
+    },
+    {
+        "name": "Josie",
+        "album": "dude ranch",
+        "albumCover": "duderanch.jpg",
+        "url": "songs/josie.mp3"
+    },
+    {
+        "name": "Dumpweed",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/dumpweed.mp3"
+    },
+    {
+        "name": "Aliens Exist",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Aliens Exist.mp3"
+    },
+    {
+        "name": "Going Away to College",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Going Away To College.mp3"
+    },
+    {
+        "name": "Whats My Age Again",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Whats My Age Again.mp3"
+    },
+    {
+        "name": "Dysentery Gary",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Dysentery Gary.mp3"
+    },
+    {
+        "name": "Mutt",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Mutt.mp3"
+    },
+    {
+        "name": "Dont Leave Me",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Dont Leave Me.mp3"
+    },
+    {
+        "name": "The Party Song",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/The Party Song.mp3"
+    },
+    {
+        "name": "Wendy Clear",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Wendy Clear.mp3"
+    },
+    {
+        "name": "Anthem",
+        "album": "Enema of the State",
+        "albumCover": "EnemaoftheState.jpg",
+        "url": "songs/Anthem.mp3"
+    },
+    {
+        "name": "Story Of A Lonely Guy",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/StoryLonely.mp3"
+    },
+    {
+        "name": "Online Songs",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Online Songs.mp3"
+    },
+    {
+        "name": "Happy Holidays",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Happy Holidays.mp3"
+    },
+    {
+        "name": "Roller Coaster",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Roller Coaster.mp3"
+    },
+    {
+        "name": "Reckless Abandon",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Reckless Abandon.mp3"
+    },
+    {
+        "name": "Stay Together For The Kids",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Stay Together For The Kids.mp3"
+    },
+    {
+        "name": "Every Time I Look For You",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Every Time I Look For You.mp3"
+    },
+    {
+        "name": "Give Me One Good Reason",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Give Me One Good Reason.mp3"
+    },
+    {
+        "name": "Please Take Me Home",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Please Take Me Home.mp3"
+    },
+    {
+        "name": "Shut Up",
+        "album": "take off your pants",
+        "albumCover": "takeoffyourpants.jpg",
+        "url": "songs/Shut Up.mp3"
+    },
+    {
+        "name": "Feeling This",
+        "album": "blink182",
+        "albumCover": "blink182.jpg",
+        "url": "songs/Feeling This.mp3"
+    },
+    {
+        "name": "I Miss You",
+        "album": "blink182",
+        "albumCover": "blink182.jpg",
+        "url": "songs/I Miss You.mp3"
+    },
+    {
+        "name": "Pathetic",
+        "album": "dude ranch",
+        "albumCover": "duderanch.jpg",
+        "url": "songs/Pathetic.mp3"
+    },
+    {
+        "name": "Adam's Song - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/marktom.mp3"
+    },
+    {
+        "name": "Blowjob - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Blowjobsong.mp3"
+    },
+    {
+        "name": "Family Reunion - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Family Reunion.mp3"
+    },
+    {
+        "name": "Dont Leave Me - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Dont Leave Me - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Dumpweed - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Dumpweed - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Aliens Exist - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Aliens Exist - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Going Away To College - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Going Away To College - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Whats My Age Again - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Whats My Age Again - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Rich Lips - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Rich Lips - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Untitled - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Untitled - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Vouyeur - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Voyeur - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Dammit - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Dammit - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "The Country Song - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/The Country Song - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "All The Small Things - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/All The Amall Things - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Wendy Clear - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Wendy Clear - The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Peggy Sue - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Peggy Sue- The Mark, Tom and Travis Show.mp3"
+    },
+    {
+        "name": "Mutt - The Mark, Tom and Travis Show",
+        "album": "marktom",
+        "albumCover": "marktom.jpg",
+        "url": "songs/Mutt - The Mark, Tom and Travis Show.mp3"
+    }
+]
+

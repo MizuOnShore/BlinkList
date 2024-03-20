@@ -110,12 +110,10 @@ body {
     overflow-y: auto;
     max-height: 100vh; /* Limit height to viewport height */
     transition: transform 0.3s ease, background-color 0.3s ease; /* Smooth transitions */
-    transform: translateX(-100%); /* Hide sidebar by default */
+    display: none;
   }
 
-  .sidebar.open {
-    transform: translateX(0); /* Show sidebar when open */
-  }
+ 
 
   .sidebar h3 {
     font-size: 20px; /* Adjusted font size for headings */
@@ -570,7 +568,7 @@ padding-bottom: 20px;
   box-shadow: -1px 0px 10px rgba(0, 0, 0, 0.3); /* Add subtle shadow */
 }
   
- 
+ /*a */
   
 @media only screen and (max-width: 768px) {
   .sidebar-right {

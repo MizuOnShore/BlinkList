@@ -83,22 +83,35 @@ document.addEventListener('DOMContentLoaded', function () {
     }
     
     function playNextIfQueueEmpty() {
-        var unplayedSongs = songList.filter(function (song) {
+        var unplayedSongs = filteredSongs.filter(function (song) {
             return !history.includes(song) && !queue.includes(song);
         });
     
         if (unplayedSongs.length > 0) {
-            var randomIndex = Math.floor(Math.random() * unplayedSongs.length);
-            var nextSong = unplayedSongs[randomIndex];
+            // Sort the unplayed songs by their original order in the filtered list
+            unplayedSongs.sort(function(a, b) {
+                return filteredSongs.indexOf(a) - filteredSongs.indexOf(b);
+            });
+    
+            // Find the index of the last played song in the filtered list
+            var lastPlayedIndex = filteredSongs.indexOf(history[history.length - 1]);
+    
+            // Calculate the index of the next song to play in the filtered list
+            var nextIndex = (lastPlayedIndex + 1) % filteredSongs.length;
+    
+            // Get the next song to play from the filtered list
+            var nextSong = filteredSongs[nextIndex];
+    
             playSong(nextSong);
             updateHistory(nextSong); // Add the played song to history
         } else {
-            // If there are no more unplayed songs, loop back to the beginning of the song list
-            var firstSong = songList[0];
+            // If there are no more unplayed songs, loop back to the beginning of the filtered song list
+            var firstSong = filteredSongs[0];
             playSong(firstSong);
             updateHistory(firstSong); // Add the played song to history
         }
     }
+    
     
     function renderSongList(songs) {
         // Sort the songs alphabetically by their titles
